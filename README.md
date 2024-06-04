@@ -1,7 +1,7 @@
 # Exploratory Data Analysis Happiness Report
 
-## Code
-Click here: []()
+## Notebook
+Click here: [](/HappinessEDA.ipynb)
 
 ## Overview
 This project involves an exploratory data analysis (EDA) of the World Happiness Report. The goal is to understand the factors that contribute to happiness across different countries and visualize the findings using various data visualization techniques.
@@ -11,7 +11,6 @@ The dataset used for this analysis is the World Happiness Report 2021. It includ
 
 ## Structure
 HappinessEDA.ipynb: The Jupyter Notebook containing the entire analysis.
-For view the Analysis click here [](/HappinessEDA.ipynb)
 The notebook performs the following tasks:
 
 - Data Cleaning: Handling missing values and unnecessary columns.
