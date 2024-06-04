@@ -1,7 +1,7 @@
 # Exploratory Data Analysis Happiness Report
 
 ## Notebook
-Click here: [](/HappinessEDA.ipynb)
+Click here: ![](/HappinessEDA.ipynb)
 
 ## Overview
 This project involves an exploratory data analysis (EDA) of the World Happiness Report. The goal is to understand the factors that contribute to happiness across different countries and visualize the findings using various data visualization techniques.
