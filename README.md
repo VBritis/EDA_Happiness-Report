@@ -1,9 +1,9 @@
 # Exploratory Data Analysis Happiness Report
 
-## Code
-Click here: []()
+## 🌌 Code
+Click here: [EDA](/HappinessEDA.ipynb)
 
-## Overview
+## 🌠 Overview
 This project involves an exploratory data analysis (EDA) of the World Happiness Report. The goal is to understand the factors that contribute to happiness across different countries and visualize the findings using various data visualization techniques.
 
 ## Dataset
@@ -11,16 +11,16 @@ The dataset used for this analysis is the World Happiness Report 2021. It includ
 
 ## Structure
 HappinessEDA.ipynb: The Jupyter Notebook containing the entire analysis.
-For view the Analysis click here [](/HappinessEDA.ipynb)
 The notebook performs the following tasks:
 
 - Data Cleaning: Handling missing values and unnecessary columns.
 - Descriptive Statistics: Summary statistics of the data.
-### Visualizations:
+- 
+### 📊 Visualizations:
 - Distribution of happiness scores.
 - Correlation heatmap between variables.
 - Choropleth map showing happiness scores around the world.
-### Key Findings
+### 🔎 Key Findings
 - Factors like GDP per capita, social support, and healthy life expectancy have a strong positive correlation with happiness.
 - Generosity and perceptions of corruption have a weaker correlation with happiness.
 ### Requirements
